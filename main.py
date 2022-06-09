@@ -1,3 +1,4 @@
-from logo.py import VypsatLogo
+from logo import VypsatLogo
+from Vyraz import Vyraz
 print("Kalkulačka")
 VypsatLogo()
