@@ -1,1 +1,1 @@
-print("Ahoj svete")
+print ("1")
